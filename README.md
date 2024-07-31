@@ -3,15 +3,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mario Parker.</h1>
 <h3 align="center">Just a tech.</h3>
 
- <img align="left" alt="Coding" width="400" src="https://github.com/user-attachments/assets/38af6abf-3614-4b78-b0e0-82aba283ec5f">
+ <img align="left" alt="Coding" width="380" src="https://github.com/user-attachments/assets/38af6abf-3614-4b78-b0e0-82aba283ec5f">
 
  
 <div style="display:flex">
-  <img align="right" alt="coding_img" width="380" src="(https://github.com/user-attachments/assets/5e13c88e-86e6-4c0f-99eb-c8f379b7e779)
-">
-  </p>
-
-
+  <img align="right" alt="coding_img" width="380" src="https://github.com/user-attachments/assets/f9d6f212-0106-494c-9a4b-2c79edb13c86">
+ 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Javascript & nodejs projects**
