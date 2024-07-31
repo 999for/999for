@@ -18,14 +18,14 @@
 
 </div>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">                       Languages and Tools:</h2>
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=redux,bootstrap,css,discord,django,git,github,gitlab,html,javascript,linux,mysql,nodejs,selenium,vscode=10">
 </p>
 
 
-<h2 align="Left"> GitHub Stats:</h3>
-<div align="Left">
+<h2 align="Center"> GitHub Stats:</h3>
+<div align="Center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=999for&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="999for" />
 </div>
