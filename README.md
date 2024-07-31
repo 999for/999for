@@ -7,7 +7,7 @@
 username=999for&label=Profile%20views&color=0e75b6&style=flat" alt="999for" /> </p>
  
 <div style="display:flex">
-  <img align="right" alt="coding_img" width="380" src="![nubelson-fernandes-Bv2FCJoh8XM-unsplash](https://github.com/user-attachments/assets/5e13c88e-86e6-4c0f-99eb-c8f379b7e779)
+  <img align="right" alt="coding_img" width="380" src="(https://github.com/user-attachments/assets/5e13c88e-86e6-4c0f-99eb-c8f379b7e779)
 ">
   </p>
 
