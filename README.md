@@ -18,8 +18,8 @@
 
 </div>
 
-<h2 align="center">                       Languages and Tools:</h2>
-<p align="center"> 
+<h2 align="Center"> Languages and Tools:</h2>
+<p align="Center"> 
   <img src="https://skillicons.dev/icons?i=redux,bootstrap,css,discord,django,git,github,gitlab,html,javascript,linux,mysql,nodejs,selenium,vscode=10">
 </p>
 
