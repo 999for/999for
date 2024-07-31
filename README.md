@@ -1,11 +1,10 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/user-attachments/assets/9d100961-cd20-498b-b6e8-e097d1261db2)
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mario Parker.</h1>
-<h3 align="center">Just a tech.</h3>
+<h1 align="center">Greetings <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mario Parker.</h1>
+<h3 align="center">Just a technical wiz</h3>
 
- <img align="left" alt="Coding" width="380" src="https://github.com/user-attachments/assets/38af6abf-3614-4b78-b0e0-82aba283ec5f">
+ <img align="left" alt="Coding" width="380" src="https://github.com/user-attachments/assets/8e312ea2-d3c8-4ad8-8fb0-d9c8667ac177">
 
- 
 <div style="display:flex">
   <img align="right" alt="coding_img" width="380" src="https://github.com/user-attachments/assets/f9d6f212-0106-494c-9a4b-2c79edb13c86">
  
