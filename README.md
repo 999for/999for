@@ -1,4 +1,4 @@
-![technology-binary-number-programming-wallpaper-1600x480_68](![pexels-pixabay-414860](https://github.com/user-attachments/assets/9d100961-cd20-498b-b6e8-e097d1261db2)
+![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/user-attachments/assets/9d100961-cd20-498b-b6e8-e097d1261db2)
 )
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mario Parker.</h1>
 <h3 align="center">Just a tech.</h3>
