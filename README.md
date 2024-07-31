@@ -1,9 +1,10 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/user-attachments/assets/9d100961-cd20-498b-b6e8-e097d1261db2)
-)
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mario Parker.</h1>
 <h3 align="center">Just a tech.</h3>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=999for&label=Profile%20views&color=0e75b6&style=flat" alt="999for" /> </p>
+ <p align="left"> <img src="(https://github.com/user-attachments/assets/0754c2be-47f1-4897-a731-266620d8994a)
+username=999for&label=Profile%20views&color=0e75b6&style=flat" alt="999for" /> </p>
  
 <div style="display:flex">
   <img align="right" alt="coding_img" width="380" src="![nubelson-fernandes-Bv2FCJoh8XM-unsplash](https://github.com/user-attachments/assets/5e13c88e-86e6-4c0f-99eb-c8f379b7e779)
