@@ -16,7 +16,7 @@ username=999for&label=Profile%20views&color=0e75b6&style=flat" alt="999for" /> <
 
 - 👯 I’m looking to collaborate on **Javascript & nodejs projects**
 
-- 💬 Ask me about **javascript, sql, nodejs**
+- 💬 Ask me about **javascript, mysql, nodejs**
 
 - 📫 How to reach me **74ready@proton.me**
 
@@ -26,7 +26,7 @@ username=999for&label=Profile%20views&color=0e75b6&style=flat" alt="999for" /> <
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=redux,sql,bootstrap,css,discord,django,git,github,gitlab,html,javascript,linux,mysql,nodejs,selenium,vscode=10">
+  <img src="https://skillicons.dev/icons?i=redux,bootstrap,css,discord,django,git,github,gitlab,html,javascript,linux,mysql,nodejs,selenium,vscode=10">
 </p>
 
 
