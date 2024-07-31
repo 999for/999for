@@ -1,4 +1,5 @@
-![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
+![technology-binary-number-programming-wallpaper-1600x480_68](![pexels-pixabay-414860](https://github.com/user-attachments/assets/9d100961-cd20-498b-b6e8-e097d1261db2)
+)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mario Parker.</h1>
 <h3 align="center">Just a tech.</h3>
 
@@ -18,14 +19,13 @@
 
 - 📫 How to reach me **74ready@proton.me**
 
-- 🐍 `print(random.choice(dev_quote))`
 </div>
 
 
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=sublimetext,telegram,whatsapp,googlemeet,redux,sql,bootstrap,css,discord,django,git,github,gitlab,html,javascript,linux,mysql,nodejs,selenium & vscode=10">
+  <img src="https://skillicons.dev/icons?i=redux,sql,bootstrap,css,discord,django,git,github,gitlab,html,javascript,linux,mysql,nodejs,selenium,vscode=10">
 </p>
 
 
